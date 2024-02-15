@@ -92,7 +92,7 @@ input#open {
   box-shadow: inset 100px 20px 100px rgba(0, 0, 0, 0.1),
     30px 0 50px rgba(0, 0, 0, 0.1);
  
-  /* pas hier je binnekant van je kaart aan (plaatje)  */
+
  
   background-image: url(img2/1.webp);
   background-size: cover;
